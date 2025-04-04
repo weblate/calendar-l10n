@@ -1,0 +1,507 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: calendar 20100125151649\n"
+"Report-Msgid-Bugs-To: parazyd@dyne.org\n"
+"POT-Creation-Date: 2010.01.25 15:16+0200\n"
+"PO-Revision-Date: 2010.01.25 15:16+0200\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: ta\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+msgid "cal_ap_name"
+msgstr ""
+
+msgid "cal_ap_name_short"
+msgstr ""
+
+msgid "cal_bd_edit_calendars"
+msgstr ""
+
+msgid "cal_bd_export"
+msgstr ""
+
+msgid "cal_bd_jump"
+msgstr ""
+
+msgid "cal_bd_monthview_week"
+msgstr ""
+
+msgid "cal_bd_new_calendar"
+msgstr ""
+
+msgid "cal_bd_new_event"
+msgstr ""
+
+msgid "cal_bd_new_note"
+msgstr ""
+
+msgid "cal_bd_new_task"
+msgstr ""
+
+msgid "cal_bd_transfer"
+msgstr ""
+
+msgid "cal_fi_alarm"
+msgstr ""
+
+msgid "cal_fi_alarm_tone"
+msgstr ""
+
+msgid "cal_fi_allday_event"
+msgid_plural "cal_fi_allday_events"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "cal_fi_calendar"
+msgstr ""
+
+msgid "cal_fi_color"
+msgstr ""
+
+msgid "cal_fi_date"
+msgstr ""
+
+msgid "cal_fi_done"
+msgstr ""
+
+msgid "cal_fi_enddate"
+msgstr ""
+
+msgid "cal_fi_enddate2"
+msgstr ""
+
+msgid "cal_fi_hide_done_tasks"
+msgstr ""
+
+msgid "cal_fi_location"
+msgstr ""
+
+msgid "cal_fi_no_events"
+msgstr ""
+
+msgid "cal_fi_remove_items"
+msgstr ""
+
+msgid "cal_fi_repeat"
+msgstr ""
+
+msgid "cal_fi_repeat_complex"
+msgstr ""
+
+msgid "cal_fi_repeat_until"
+msgstr ""
+
+msgid "cal_fi_set_alarm_tone1"
+msgstr ""
+
+msgid "cal_fi_startdate"
+msgstr ""
+
+msgid "cal_fi_tasks_undone_plural"
+msgid_plural "cal_fi_tasks_undone"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "cal_fi_visible"
+msgstr ""
+
+msgid "cal_fi_week_start_day"
+msgstr ""
+
+msgid "cal_fi_wizard_placeholder_title"
+msgstr ""
+
+msgid "cal_fi_wizard_type_local"
+msgstr ""
+
+msgid "cal_fi_wizard_type_smart"
+msgstr ""
+
+msgid "cal_ia_wizard_complete"
+msgstr ""
+
+msgid "cal_ia_wizard_intro"
+msgstr ""
+
+msgid "cal_ia_wizard_setup_complete"
+msgstr ""
+
+msgid "cal_ia_wizard_typetext"
+msgstr ""
+
+msgid "cal_ib_add_title"
+msgstr ""
+
+msgid "cal_ib_alarm_early"
+msgstr ""
+
+msgid "cal_ib_calendar_added_web"
+msgstr ""
+
+msgid "cal_ib_calendar_saved"
+msgstr ""
+
+msgid "cal_ib_date_earlier"
+msgstr ""
+
+msgid "cal_ib_date_earlier_until"
+msgstr ""
+
+msgid "cal_ib_import_duplicate"
+msgstr ""
+
+msgid "cal_ib_import_duplicates"
+msgstr ""
+
+msgid "cal_ib_last_event"
+msgstr ""
+
+msgid "cal_ib_setting_failed"
+msgstr ""
+
+msgid "cal_ib_time_earlier"
+msgstr ""
+
+msgid "cal_ib_title_exists"
+msgstr ""
+
+msgid "cal_ib_unix"
+msgstr ""
+
+msgid "cal_ib_visible"
+msgstr ""
+
+msgid "cal_me_agenda_home_applet"
+msgstr ""
+
+msgid "cal_me_go_to_notes"
+msgstr ""
+
+msgid "cal_me_go_to_tasks"
+msgstr ""
+
+msgid "cal_me_jump_to_today"
+msgstr ""
+
+msgid "cal_me_new_event"
+msgstr ""
+
+msgid "cal_me_next_day"
+msgstr ""
+
+msgid "cal_me_next_event"
+msgstr ""
+
+msgid "cal_me_next_month"
+msgstr ""
+
+msgid "cal_me_next_week"
+msgstr ""
+
+msgid "cal_me_previous_day"
+msgstr ""
+
+msgid "cal_me_previous_event"
+msgstr ""
+
+msgid "cal_me_previous_month"
+msgstr ""
+
+msgid "cal_me_previous_week"
+msgstr ""
+
+msgid "cal_me_toggle_agenda"
+msgstr ""
+
+msgid "cal_me_toggle_month"
+msgstr ""
+
+msgid "cal_me_toggle_week"
+msgstr ""
+
+msgid "cal_more_events"
+msgstr ""
+
+msgid "cal_nc_delete_event"
+msgstr ""
+
+msgid "cal_nc_delete_event_repeat"
+msgstr ""
+
+msgid "cal_nc_delete_note"
+msgstr ""
+
+msgid "cal_nc_delete_task"
+msgstr ""
+
+msgid "cal_nc_edit_complex_last"
+msgstr ""
+
+msgid "cal_nc_edit_complex_recurrence"
+msgstr ""
+
+msgid "cal_nc_permanent_delete"
+msgstr ""
+
+msgid "cal_nc_permanent_sync_delete"
+msgstr ""
+
+msgid "cal_nc_remove_calendar"
+msgstr ""
+
+msgid "cal_nc_smart_delete"
+msgstr ""
+
+msgid "cal_nc_synced_delete"
+msgstr ""
+
+msgid "cal_ni_export_nospace"
+msgstr ""
+
+msgid "cal_ni_ical_invalid"
+msgstr ""
+
+msgid "cal_ni_internal_error"
+msgstr ""
+
+msgid "cal_ni_web_invalid"
+msgstr ""
+
+msgid "cal_task_summary"
+msgstr ""
+
+msgid "cal_ti_agenda"
+msgstr ""
+
+msgid "cal_ti_alarm_tone"
+msgstr ""
+
+msgid "cal_ti_calendar_private"
+msgstr ""
+
+msgid "cal_ti_context_delete"
+msgstr ""
+
+msgid "cal_ti_context_edit"
+msgstr ""
+
+msgid "cal_ti_edit_calendar"
+msgstr ""
+
+msgid "cal_ti_edit_calendars"
+msgstr ""
+
+msgid "cal_ti_edit_event"
+msgstr ""
+
+msgid "cal_ti_edit_note"
+msgstr ""
+
+msgid "cal_ti_edit_task"
+msgstr ""
+
+msgid "cal_ti_event"
+msgstr ""
+
+msgid "cal_ti_import"
+msgstr ""
+
+msgid "cal_ti_import_info"
+msgstr ""
+
+msgid "cal_ti_invited_attendees"
+msgstr ""
+
+msgid "cal_ti_jump_to"
+msgstr ""
+
+msgid "cal_ti_no_notes"
+msgstr ""
+
+msgid "cal_ti_no_tasks"
+msgstr ""
+
+msgid "cal_ti_notes"
+msgstr ""
+
+msgid "cal_ti_open_sound_clip"
+msgstr ""
+
+msgid "cal_ti_organiser"
+msgstr ""
+
+msgid "cal_ti_remove_event"
+msgstr ""
+
+msgid "cal_ti_settings"
+msgstr ""
+
+msgid "cal_ti_smart_birthdays"
+msgstr ""
+
+msgid "cal_ti_tasks"
+msgstr ""
+
+msgid "cal_ti_title"
+msgstr ""
+
+msgid "cal_ti_weekview"
+msgstr ""
+
+msgid "cal_ti_weekview_jump"
+msgstr ""
+
+msgid "cal_ti_welcome"
+msgstr ""
+
+msgid "cal_ti_welcome_info"
+msgstr ""
+
+msgid "cal_ti_wizard"
+msgstr ""
+
+msgid "cal_ti_wizard_complete"
+msgstr ""
+
+msgid "cal_ti_wizard_details"
+msgstr ""
+
+msgid "cal_ti_wizard_type"
+msgstr ""
+
+msgid "cal_va_0_min"
+msgstr ""
+
+msgid "cal_va_15_min"
+msgstr ""
+
+msgid "cal_va_1_hour"
+msgstr ""
+
+msgid "cal_va_30_min"
+msgstr ""
+
+msgid "cal_va_3_hours"
+msgstr ""
+
+msgid "cal_va_5_min"
+msgstr ""
+
+msgid "cal_va_allday"
+msgstr ""
+
+msgid "cal_va_allday_home"
+msgstr ""
+
+msgid "cal_va_allday_long"
+msgstr ""
+
+msgid "cal_va_amount_event"
+msgid_plural "cal_va_amount_events"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "cal_va_amount_note"
+msgid_plural "cal_va_amount_notes"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "cal_va_amount_task"
+msgid_plural "cal_va_amount_tasks"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "cal_va_and"
+msgstr ""
+
+msgid "cal_va_calendar"
+msgstr ""
+
+msgid "cal_va_calendar_visible"
+msgid_plural "cal_va_calendars"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "cal_va_count_event"
+msgid_plural "cal_va_count_events"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "cal_va_day_before"
+msgstr ""
+
+msgid "cal_va_every_day"
+msgstr ""
+
+msgid "cal_va_every_month"
+msgstr ""
+
+msgid "cal_va_every_week"
+msgstr ""
+
+msgid "cal_va_every_workday"
+msgstr ""
+
+msgid "cal_va_every_year"
+msgstr ""
+
+msgid "cal_va_local"
+msgstr ""
+
+msgid "cal_va_monday"
+msgstr ""
+
+msgid "cal_va_never"
+msgstr ""
+
+msgid "cal_va_newcalendar"
+msgstr ""
+
+msgid "cal_va_none"
+msgstr ""
+
+msgid "cal_va_note_saved"
+msgstr ""
+
+msgid "cal_va_older_1_month"
+msgstr ""
+
+msgid "cal_va_older_1_week"
+msgstr ""
+
+msgid "cal_va_older_1_year"
+msgstr ""
+
+msgid "cal_va_older_2_weeks"
+msgstr ""
+
+msgid "cal_va_placeholder_description"
+msgstr ""
+
+msgid "cal_va_placeholder_note"
+msgstr ""
+
+msgid "cal_va_placeholder_title"
+msgstr ""
+
+msgid "cal_va_repeat_complex"
+msgstr ""
+
+msgid "cal_va_select_object_no_sound_clips"
+msgstr ""
+
+msgid "cal_va_smart"
+msgstr ""
+
+msgid "cal_va_sunday"
+msgstr ""
+
+msgid "cal_va_synchronized"
+msgstr ""
+
+msgid "cal_va_today"
+msgstr ""
